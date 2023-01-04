@@ -1,5 +1,1 @@
 # Landing-page
-
-Text
-
-Description
