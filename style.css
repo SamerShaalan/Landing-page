@@ -20,7 +20,8 @@ margin:0px 0;}
 ul{list-style: none;
 text-decoration: underline;}
 
-.containerB p{font-size: 48px;}
+.containerB p{font-size: 48px;
+font-weight:bold;}
 
 
 
