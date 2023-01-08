@@ -22,10 +22,11 @@ text-decoration: underline;}
 button{padding:20px 80px;
 color:white;
 background-color: blue;
-border-radius: 15px;
+border-radius: 10px;
 font-weight: bold;
 font-size: 18px;
-margin:50px;}
+margin:50px;
+padding:7px 30px;}
 
 
 .one{font-size: 48px;
@@ -41,7 +42,8 @@ max-width: 400px;}
         flex-shrink: 0;
     margin:-50px;
 color:#e5e7eb;
-max-width:400px;}
+max-width:400px;
+font-size:18px ;}
 
     .button{margin:20px 100px 0;
         
