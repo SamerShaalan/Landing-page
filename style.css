@@ -20,10 +20,7 @@ margin:0px 0;}
 ul{list-style: none;
 text-decoration: underline;}
 
-.containerB p{font-size: 48px;
-font-weight:bold;
-padding:0 135px;
-flex-shrink: 1;}
+
 
 button{padding:20px 80px;
 color:white;
@@ -32,6 +29,18 @@ border-radius: 15px;
 font-weight: bold;
 font-size: 18px;
 margin:50px;}
+
+
+.one{font-size: 48px;
+    font-weight:bold;
+    padding:0 135px;
+    flex-shrink: 1;}
+    
+
+    .two{
+        padding:0 135px;
+        flex-shrink: 1;
+    margin:-50px;}
 
 
 
