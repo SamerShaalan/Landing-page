@@ -1,0 +1,62 @@
+body{display: flex;
+flex-direction: column;
+margin:0;
+
+
+background-color: #1f2937;
+}
+
+.header {
+font-size:24px;
+color:White;
+}
+
+.container{display:flex;
+    align-items: center;
+justify-content: space-between;
+padding:0 135px;}
+
+ul{list-style: none;
+text-decoration: underline;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul{display: flex;
+gap: 40px;}
+
+
+
+
+
+
+
+
+
