@@ -37,15 +37,14 @@ color:#F9FAF8;
 max-width: 400px;}
     
 
-    .two{
-        padding:0 185px;
+    .two{padding:0 185px;
         flex-shrink: 0;
     margin:-50px;
 color:#e5e7eb;
-max-width:400px;
-font-size:18px ;}
+max-width:290px;
+font-size:18px;}
 
-    .button{margin:20px 100px 0;
+    .button{margin:10px 120px 0;
         
     }
 
