@@ -2,6 +2,7 @@ body{display: flex;
 flex-direction: column;
 margin:0;
 
+
 }
 
 .header {
@@ -13,7 +14,8 @@ background-color: #1f2937;
 .container{display:flex;
     align-items: center;
 justify-content: space-between;
-padding:0 135px;}
+padding:0 135px;
+margin:0px 0;}
 
 ul{list-style: none;
 text-decoration: underline;}
