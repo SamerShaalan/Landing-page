@@ -34,14 +34,14 @@ margin:50px;}
 .one{font-size: 48px;
     font-weight:bold;
     padding:0 135px;
-    flex-shrink: 1;
+    flex-shrink: 0;
 color:#F9FAF8;
 max-width: 400px;}
     
 
     .two{
         padding:0 135px;
-        flex-shrink: 1;
+        flex-shrink: 0;
     margin:-50px;
 color:#e5e7eb;
 max-width:400px;}
