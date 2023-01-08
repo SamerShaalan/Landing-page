@@ -35,14 +35,16 @@ margin:50px;}
     font-weight:bold;
     padding:0 135px;
     flex-shrink: 1;
-color:#F9FAF8;}
+color:#F9FAF8;
+max-width: 400px;}
     
 
     .two{
         padding:0 135px;
         flex-shrink: 1;
     margin:-50px;
-color:#e5e7eb}
+color:#e5e7eb;
+max-width:400px;}
 
     .button{margin:50px}
 
