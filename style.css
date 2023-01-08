@@ -28,12 +28,9 @@ flex-shrink: 1;}
 button{padding:20px 80px;
 color:white;
 background-color: blue;
-border-radius: 20%;
+border-radius: 15px;
 font-weight: bold;
 font-size: 18px;
-
-
-
 margin:50px;}
 
 
