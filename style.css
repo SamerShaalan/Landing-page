@@ -25,9 +25,11 @@ font-weight:bold;
 padding:0 135px;
 flex-shrink: 1;}
 
-button{padding:0 25px;
+button{padding:20px 80px;
 color:white;
-background-color: turquoise;}
+background-color: turquoise;
+border-radius: 20%;
+margin:50px;}
 
 
 
