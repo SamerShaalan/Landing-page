@@ -21,7 +21,9 @@ ul{list-style: none;
 text-decoration: underline;}
 
 .containerB p{font-size: 48px;
-font-weight:bold;}
+font-weight:bold;
+padding:0 135px;
+flex-shrink: 1;}
 
 
 
