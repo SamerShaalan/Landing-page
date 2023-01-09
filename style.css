@@ -35,9 +35,8 @@ padding:7px 30px;}
 
 .one{font-size: 48px;
     font-weight:bold;
-    
-font-family: 'Space Mono', monospace;
-    padding:0 250px;
+    font-family: 'Space Mono', monospace;
+    padding:0 158px;
     flex-shrink: 0;
 color:#F9FAF8;
 /*max-width: 400px;*/
