@@ -27,10 +27,11 @@ button{padding:20px 80px;
 color:white;
 background-color: blue;
 border-radius: 10px;
-font-weight: bold;
-font-size: 18px;
+font-weight: thin;
+font-size: 25px;
 margin:50px;
 padding:7px 30px;
+font-family: 'Sofia Sans Extra Condensed', sans-serif;
 }
 
 
