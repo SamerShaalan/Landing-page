@@ -36,9 +36,9 @@ font-family: 'Sofia Sans Extra Condensed', sans-serif;
 
 
 .one{font-size: 48px;
-    font-weight:bold;
+    font-weight:thin;
     font-family: 'Space Mono', monospace;
-    padding:0 158px;
+    padding:0 195px;
     flex-shrink: 0;
 color:#F9FAF8;
 /*max-width: 400px;*/
