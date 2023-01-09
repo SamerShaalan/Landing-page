@@ -30,7 +30,8 @@ border-radius: 10px;
 font-weight: bold;
 font-size: 18px;
 margin:50px;
-padding:7px 30px;}
+padding:7px 30px;
+}
 
 
 .one{font-size: 48px;
@@ -52,6 +53,7 @@ font-size:17px;
 font-family: 'Cinzel', serif;}
 
     .button{margin:10px 120px 0;
+        
         
     }
 
