@@ -26,6 +26,18 @@ text-decoration: none;}
 
 
 
+img{ 
+    height:230px;
+width:370px;
+border-radius: 10px;
+}
+
+.image{padding-right:900px}
+
+
+
+
+
 button{padding:20px 80px;
 color:rgb(255, 255, 255, 0.66);
 background-color: rgb(31, 153, 33);
