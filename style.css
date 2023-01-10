@@ -25,10 +25,22 @@ text-decoration: none;}
 
 
 
+.image{display:flex;
+    align-items: center;
+justify-content: center;}
+
+
+
+
+
 img{height: 300px;
 width: 300px;
-display: flex;}
+display: flex;
+justify-content: space-between;}
 
+
+
+.ContainerA{}
 
 
 
@@ -54,15 +66,14 @@ font-family: 'Sofia Sans Extra Condensed', sans-serif;
 }
 
 
-.one{font-size: 48px;
+
+    
+h1{font-size: 48px;
     font-family: 'Exo 2', sans-serif;
 
     padding:0 184px;
     flex-shrink: 0;
-    color:#F9FAF8;
-/*max-width: 400px;*/
-}
-    
+    color:#F9FAF8;}
 
     .two{padding:36px 186px;
         flex-shrink: 0;
