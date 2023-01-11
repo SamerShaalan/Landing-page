@@ -9,6 +9,9 @@ background-color: #1f2937;
 
 }
 
+.containerA{margin-top: 00px;}
+
+
 .container{display:flex;
     align-items: center;
 justify-content: space-between;
@@ -27,29 +30,11 @@ text-decoration: none;}
 
 
 img{height: 300px;
-width: 300px;
+width:300px;
 margin-left:620px;
 margin-top:-200px;
 margin-bottom:75px;
 border-radius:25%;}
-
-
-
-.second{background-color: red;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 button{padding:20px 80px;
@@ -89,7 +74,7 @@ font-family: 'Cinzel', serif;}
 
 
 
-
+        .second{background-color: red;}
 
 
 
