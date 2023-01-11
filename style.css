@@ -74,27 +74,14 @@ font-family: 'Cinzel', serif;}
 
 
 
-        .title{
-        text-align: center;}
+        .second{
+        text-align: center;
+       }
 
-        .secondA{font-size: 36px;
-        font-weight: bolder;
-    color:#1f2937;}
+        
 
-
-    .secondB{display: flex;
-        margin-top:50px;
-    }
-
-
-    .second1{margin-top:50px;}
-    .second2{margin-top:50px;}
-    .second3{margin-top:50px;}
-    .second4{margin-top:50px;}
-
-
-
-    .photos{margin-top: 75px;}
+    .photos{display: flex;
+        margin-top: 75px;}
 
 
 
