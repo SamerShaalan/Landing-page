@@ -37,4 +37,6 @@ body {
 
 .navbar-left,
 .navbar-right {
+	display: flex;
+	width: 50%;
 }
