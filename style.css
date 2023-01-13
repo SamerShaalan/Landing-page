@@ -30,4 +30,5 @@ body {
 
 .navbar {
 	display: flex;
+	flex-direction: column;
 }
