@@ -27,3 +27,7 @@ body {
 	color: #e5e7eb;
 	margin: 10px;
 }
+
+.navbar {
+	display: flex;
+}
