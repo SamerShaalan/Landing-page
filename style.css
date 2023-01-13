@@ -48,3 +48,8 @@ h1 {
 	font-weight: bolder;
 	color: #f9faf8;
 }
+
+img {
+	width: 500;
+	height: 600;
+}
