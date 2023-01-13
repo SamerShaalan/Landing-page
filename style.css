@@ -55,6 +55,7 @@ img {
 
 .content {
 	display: flex;
+	flex-direction: row;
 }
 
 .content-left,
