@@ -34,3 +34,7 @@ body {
 	display: flex;
 	flex-direction: row;
 }
+
+.navbar-left,
+.navbar-right {
+}
