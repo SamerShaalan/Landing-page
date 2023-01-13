@@ -60,4 +60,6 @@ img {
 .content-left,
 .content-right {
 	display: flex;
+	justify-content: center;
+	align-items: center;
 }
