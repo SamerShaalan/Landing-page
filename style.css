@@ -56,3 +56,8 @@ img {
 .content {
 	display: flex;
 }
+
+.content-left,
+.content-right {
+	display: flex;
+}
