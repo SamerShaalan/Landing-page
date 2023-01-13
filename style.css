@@ -54,4 +54,5 @@ img {
 }
 
 .content {
+	display: flex;
 }
