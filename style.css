@@ -72,4 +72,7 @@ img {
 	display: flex;
 	width: 50%;
 	flex-direction: column;
+	margin-left: 50px;
+	justify-content: center;
+	align-items: center;
 }
