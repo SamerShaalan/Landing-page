@@ -74,11 +74,10 @@ img {
 	flex-direction: column;
 	margin-left: 50px;
 	justify-content: center;
-	align-items: center;
+	margin-left: 200px;
 }
 
 .p-first {
-	margin-left: 90px;
 	font-size: 18px;
 	color: #e5e7eb;
 }
