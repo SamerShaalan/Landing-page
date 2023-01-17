@@ -97,3 +97,14 @@ h2 {
 	color: #1f2937;
 	text-align: center;
 }
+
+.row-of-blue-divs {
+	display: flex;
+	flex-direction: row;
+}
+
+.blue-box {
+	border: 2px solid red;
+	padding: 10px;
+	border-radius: 25px;
+}
