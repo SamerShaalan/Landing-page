@@ -101,6 +101,7 @@ h2 {
 .row-of-blue-divs {
 	display: flex;
 	flex-direction: row;
+	justify-content: space-between;
 }
 
 .blue-box {
