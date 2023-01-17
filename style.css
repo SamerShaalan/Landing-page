@@ -90,3 +90,9 @@ img {
 	border: 1px #3882f6;
 	border-radius: 10px;
 }
+
+h2 {
+	font-size: 36px;
+	font-weight: bolder;
+	color: #1f2937;
+}
