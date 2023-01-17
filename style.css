@@ -119,5 +119,23 @@ h2 {
 }
 
 .third-section {
-	background-color: grey;
+	background-color: #e5e7eb;
+	height: 500px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+h3 {
+	font-size: 36px;
+	font-style: italic;
+	color: #1f2937;
+	font-weight: lighter;
+	text-align: center;
+}
+
+.author {
+	font-weight: bold;
+	font-size: 18px;
+	margin-left: 900px;
 }
