@@ -139,3 +139,10 @@ h3 {
 	font-size: 18px;
 	margin-left: 900px;
 }
+
+.fourth-section {
+	margin: 100px;
+	background-color: #3882f6;
+	padding: 40px;
+	border-radius: 10px;
+}
