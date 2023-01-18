@@ -149,3 +149,9 @@ h3 {
 	align-items: center;
 	justify-content: center;
 }
+
+.first-p-part-right {
+	font-size: 24px;
+	font-weight: bold;
+	color: #e5e7eb;
+}
