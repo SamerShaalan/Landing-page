@@ -141,17 +141,42 @@ h3 {
 }
 
 .fourth-section {
-	margin: 100px;
+	margin: 100px 150px;
 	background-color: #3882f6;
-	padding: 40px;
+	padding: 50px;
 	border-radius: 10px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
 
+.content-part {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
 .first-p-part-right {
 	font-size: 24px;
 	font-weight: bold;
 	color: #e5e7eb;
+}
+
+.second-p-part-left {
+	color: #e5e7eb;
+	font-weight: lighter;
+}
+
+.part-left {
+	padding-left: 200px;
+}
+
+.second-signup {
+	background-color: #3882f6;
+	padding: 7px 35px;
+	border: 2px solid white;
+	border-radius: 8px;
+	color: #e5e7eb;
+	font-size: 18px;
+	font-weight: bold;
 }
